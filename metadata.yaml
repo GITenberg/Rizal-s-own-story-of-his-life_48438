@@ -1,0 +1,33 @@
+_repo: Rizal-s-own-story-of-his-life_48438
+contributor:
+  creator:
+    editor:
+      agent_name: Craig, Austin
+      birthdate: 1872
+      gutenberg_agent_id: '2229'
+      url: http://www.gutenberg.org/2009/agents/2229
+      wikipedia: http://en.wikipedia.org/wiki/Austin_Craig
+creator:
+  author:
+    agent_name: Rizal, José
+    aliases:
+    - Rizal Mercado y Alonzo Realonda, José Protasio
+    - Rizal, Jose
+    birthdate: 1861
+    deathdate: 1896
+    gutenberg_agent_id: '2183'
+    url: http://www.gutenberg.org/2009/agents/2183
+    wikipedia:
+    - http://en.wikipedia.org/wiki/José_Rizal
+    - http://www.joserizal.ph/
+description: ''
+gutenberg_issued: '2015-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Rizal's own story of his life
+url: http://www.gutenberg.org/ebooks/48438
