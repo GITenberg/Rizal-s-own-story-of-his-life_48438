@@ -1,4 +1,5 @@
 _repo: Rizal-s-own-story-of-his-life_48438
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -7,6 +8,9 @@ contributor:
       gutenberg_agent_id: '2229'
       url: http://www.gutenberg.org/2009/agents/2229
       wikipedia: http://en.wikipedia.org/wiki/Austin_Craig
+covers:
+- cover_type: archival
+  image_path: 48438-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Rizal, José
@@ -21,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/José_Rizal
     - http://www.joserizal.ph/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48438#Rizal-s-own-story-of-his-life
 gutenberg_issued: '2015-03-08'
 gutenberg_type: Text
 identifiers:
